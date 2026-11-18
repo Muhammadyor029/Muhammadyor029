@@ -8,8 +8,8 @@
   <br>
 
   <!-- Telegram Ssilka (Professional va Qora-Yashil Neon Stilda) -->
-  <a href="https://t.me/wirakhq">
-    <img src="https://img.shields.io/badge/Telegram-%40wirakhq-00FF66?style=for-the-badge&logo=telegram&logoColor=00FF66&color=0d1117&labelColor=0d1117" alt="Telegram Profile" height="42">
+  <a href="https://t.me/iRakhmanaliyev">
+    <img src="https://img.shields.io/badge/Telegram-%40iRakhmanaliyev-00FF66?style=for-the-badge&logo=telegram&logoColor=00FF66&color=0d1117&labelColor=0d1117" alt="Telegram Profile" height="42">
   </a>
 
   <br><br>
